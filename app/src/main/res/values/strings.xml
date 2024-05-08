@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista-Tarefa-CP5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="task_completed">Tarefa concluída</string>
+    <string name="clear_tasks">Limpar Tarefas</string>
+</resources>
